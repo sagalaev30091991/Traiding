@@ -1,0 +1,12 @@
+.idea/
+venv/
+
+.env
+
+*.pyc
+log.txt
+
+**/__pycache__/
+
+*/.DS_Store
+e.txt
